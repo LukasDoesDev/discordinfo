@@ -1,0 +1,2 @@
+# discordinfo
+Info about Discord
