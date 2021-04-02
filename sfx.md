@@ -12,7 +12,7 @@
 - [PTT Deactivate](https://discord.com/assets/74ab980d6890a0fa6aa0336182f9f620.mp3)
 - [User Moved](https://discord.com/assets/e81d11590762728c1b811eadfa5be766.mp3)
 
-# April Fools 2021 Sound Packs (NEW):
+# April Fools 2021 Sound Packs:
 
 ### Chaos Sound Pack
 - [Undeafen (Chaos Sound Pack)](https://discord.com/assets/daf509b2834fff4f8d9021d08f810e71.mp3)
